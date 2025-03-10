@@ -1,4 +1,4 @@
-# <h1 align="center">Projeto de uma plataforma de streaming</h1>
+# <h1 align="center">Projeto Front-End de uma plataforma de streaming</h1>
 <br>
 
 ## 🚀 Tecnologias
