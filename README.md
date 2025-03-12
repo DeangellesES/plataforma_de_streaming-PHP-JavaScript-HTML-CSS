@@ -1,6 +1,8 @@
 # <h1 align="center">Projeto Front-End de uma plataforma de streaming</h1>
 <br>
 
+<h3 align="start">Swiper utilizado</h3>
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
