@@ -1,7 +1,7 @@
 # <h1 align="center">Projeto Front-End de uma plataforma de streaming</h1>
 <br>
 
-<h3 align="start">Swiper utilizado</h3>
+<h3 align="start">Swiper e boxicons utilizado</h3>
 
 ## 🚀 Tecnologias
 <div>
